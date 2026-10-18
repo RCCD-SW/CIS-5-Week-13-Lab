@@ -45,7 +45,12 @@ See the assignment sample session. Paste a real one in the README.
 - Repo + short demo + Canvas
 
 ## Rubric (100)
-Graded as a mini-project: it runs, it meets the prompt, output is labeled, and the GitHub repo plus demo video are there.
+
+| Criterion | Pts |
+|-----------|----:|
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 No classes or file I/O required.
